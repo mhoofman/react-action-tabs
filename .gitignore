@@ -31,6 +31,3 @@ node_modules
 
 # NPM debug stuff
 npm-debug.log
-
-# distribution
-dist
